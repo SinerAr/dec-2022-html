@@ -1,0 +1,22 @@
+h1  {color: gold;
+    background: lightgrey}
+
+p   {
+    background-color: bisque;
+    width: 500px;
+}
+
+h1, h2  {
+    color: forestgreen;
+    background-color: cadetblue;
+}
+
+li  {
+    color: slateblue;
+    background-color: darksalmon;
+    width: 500px;
+}
+
+img {
+    width: 200px;
+}
