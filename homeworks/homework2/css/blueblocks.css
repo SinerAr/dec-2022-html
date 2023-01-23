@@ -1,0 +1,54 @@
+
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.top, .center, .bottom {
+    width: 100%;
+    height: 30%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.center {
+    justify-content: space-between;
+}
+
+.top, .bottom {
+    background-color: cornflowerblue;
+    justify-content: center;
+}
+
+.line {
+    height: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line:nth-child(1) {
+    width: 20%;
+    height: 60%;
+}
+
+.line:nth-child(2) {
+    width: 30%;
+    height: 80%;
+}
+
+.line:nth-child(3) {
+    width: 40%;
+    height: 100%;
+}
