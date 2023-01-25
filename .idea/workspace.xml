@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3494232e-a0c9-4b3c-b91f-d86d9b6473b4" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/blueblocks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/css/blueblocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/css/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/main.css" afterDir="false" />
+    <list default="true" id="3494232e-a0c9-4b3c-b91f-d86d9b6473b4" name="Changes" comment="homework2 done">
+      <change afterPath="$PROJECT_DIR$/homeworks/homework3/card1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/homework3/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/homework3/css/card1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/homework3/css/card2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resolves/lesson3/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resolves/lesson3/part2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/homeworks/homework1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeworks/homework3/css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +76,8 @@
       <workItem from="1674064572587" duration="6295000" />
       <workItem from="1674258847893" duration="2868000" />
       <workItem from="1674406528116" duration="3480000" />
-      <workItem from="1674419137466" duration="3697000" />
+      <workItem from="1674419137466" duration="5210000" />
+      <workItem from="1674645400048" duration="7532000" />
     </task>
     <task id="LOCAL-00001" summary="first lesson 1">
       <created>1673982973570</created>
@@ -96,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674066641619</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework2">
+      <created>1674435901668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674435901668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework2 done">
+      <created>1674473100009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473100009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first lesson 1" />
     <MESSAGE value="homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework1" />
+    <MESSAGE value="homework2" />
+    <MESSAGE value="homework2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2 done" />
   </component>
 </project>
